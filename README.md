@@ -2,6 +2,10 @@
 
 A minimalist Android countdown wallpaper. Every dot is a unit of time: filled dots have passed, empty dots are still ahead, and today's dot is highlighted. The wallpaper updates itself every day.
 
+## Download
+
+Get the APK from the [latest release](https://github.com/maanasmandaliya/DOTS/releases/latest), open it on your phone and allow installing from that source. Requires Android 10 or newer.
+
 ## Build
 
 Requires the Android SDK (platform 37) and JDK 17+ (Android Studio's bundled JBR works).
